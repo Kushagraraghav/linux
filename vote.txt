@@ -1,0 +1,14 @@
+function cal(){
+var1=5
+var2=10
+((add=var1+var2))
+((sub=var2-var1))
+((pro=var2*var1))
+((div=var2/var1))
+}
+cal
+echo kushagra
+echo $add
+echo $sub
+echo $pro
+echo $div
